@@ -5,4 +5,6 @@
 404 - problems
 909 - developing (now btw)
 ]]
-local Status = 909
+local API = {}
+API.Status = "909"
+return API
